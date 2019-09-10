@@ -4,7 +4,7 @@
 ###### Adding New Book
 ![Add New Book](https://raw.githubusercontent.com/ritesh28393/React-Firebase-Books-App/master/ScreenShot/Add_New_Book.png "Add New Book")
 ###### Editing Existing Book
-![Modify Existing Book](https://raw.githubusercontent.com/ritesh28393/React-Firebase-Books-App/master/ScreenShot/Modify_Existing_Book.png "Modify Existing Book"){ width=50% height=50%}
+![Modify Existing Book](https://raw.githubusercontent.com/ritesh28393/React-Firebase-Books-App/master/ScreenShot/Modify_Existing_Book.png "Modify Existing Book"){: width=150 height=100 style="float:right; padding:16px"}
 ## Firebase JSON DB
 https://react-books-app.firebaseio.com/books.json
 ## books.json
