@@ -1,4 +1,4 @@
-# react-books-app
+## Firebase JSON DB
 https://react-books-app.firebaseio.com/books.json
 ## books.json
 ```json
